@@ -1,0 +1,11 @@
+set_id;age;gender;country;ethnicity;device_model; fps; photo_resolution;video_resolution;photo_extension; video_extension
+1;40;FEMALE;Pakistan ;Asian;iPhone ;24.002681863895408;750x1000;480x360;jpeg;MOV
+2;18;MALE;Pakistan ;Asian;Sparkneo8pro ;20.00105505004192;750x1000;1280x720;jpg;mp4
+3;21;MALE;Turkey;Middle Eastern;Poco X4 Pro 5G;29.844807003581376;1000x750;850x478;jpg;mp4
+4;25;FEMALE;Russia ;Asian;Itel P40 ;29.993705024871325;1000x750;1920x1080;jpg;mp4
+5;18;MALE;Nigeria;African;Vivo y1s;19.99882359861185;1000x563;1920x1080;jpg;mp4
+6;34;FEMALE;El Salvador ;Middle Eastern;Samsung s52;30.05300256816568;1000x1000;1920x1080;jpg;mp4
+7;22;FEMALE;Kenya;African;Realme;24.94824016563147;1000x750;1280x720;jpg;mp4
+8;20;MALE;Kenya;African;Samsung a12;30.01131378892837;1000x750;1280x720;jpg;mp4
+9;73;FEMALE;Ukraine;European;Asus;17.099907505045767;750x1000;480x640;jpg;mp4
+10;30;MALE;Brazil ;European;Xiaomi 12 lite;30.12120977797539;1000x563;1920x1080;jpg;mp4
